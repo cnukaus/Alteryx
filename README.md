@@ -13,5 +13,7 @@ Found from Alteryx Forum: One way to accomplish **Auto Email Read**  is by linki
 
 因为很多人不是Windows, Alteryx不直接支持，解决办法要么IOS用本地虚拟机Bootcamp（免费内置）,VMware/Parallel,要么在Microsoft cloud等开一个虚拟机（前几个月免费），结束后关掉。 或者可以下载同类工具Knime  https://www.knime.com/downloads/download-knime
 
+Dynamic Rename: chose which fields (by sequence possible and specify a subset by list too) to rename
+
 Excel Pivot table best practice:
 Excel pivotchart/table best way to dynamic update (if data sourcesheet range changed). User Power Query as data connection to read external CSV file, create Pivot table/chart feeeding from connection, this will refresh and recognised new CSV file as whole range
