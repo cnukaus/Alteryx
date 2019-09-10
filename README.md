@@ -10,6 +10,7 @@ Error: Dynamic Input (8): DataWrapOCI: Unable to prepare the query: "SELECT * FR
 
 Found from Alteryx Forum: One way to accomplish **Auto Email Read**  is by linking the Outlook folder (s) to an Access database table (s) and then to read the Access database with Alteryx
 
+Propose: Dynamic INput tool,it can read multiple files, but unlike Knime, metadata (# of file in loop) is not in output, so no way to tag the filename with the data read
 
 因为很多人不是Windows, Alteryx不直接支持，解决办法要么IOS用本地虚拟机Bootcamp（免费内置）,VMware/Parallel,要么在Microsoft cloud等开一个虚拟机（前几个月免费），结束后关掉。 或者可以下载同类工具Knime  https://www.knime.com/downloads/download-knime
 
