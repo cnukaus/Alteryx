@@ -24,3 +24,5 @@ Excel pivotchart/table best way to dynamic update (if data sourcesheet range cha
 Limitation 3: insert column into vlookup array, the index will not shift automatically
 
 Row() _xlsfunction
+
+In case need limited iteration, Excel can turn on "iterative macro" on to allow circular referencing
