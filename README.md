@@ -22,3 +22,5 @@ Excel pivotchart/table best way to dynamic update (if data sourcesheet range cha
 # Xlookup
 不受Vlookup不能找左边，只能找最顶上一个结果等等限制了
 Limitation 3: insert column into vlookup array, the index will not shift automatically
+
+Row() _xlsfunction
